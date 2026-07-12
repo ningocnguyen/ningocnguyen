@@ -12,9 +12,8 @@ Passionate about bridging the gap between rigorous financial logic and scalable 
 * Scalable ETL pipeline design, schema enforcement, and data validation
 * Automated pipeline orchestration, dependency management, and scheduling
 
-**Analytical & Financial Modeling**
+**Analytical & Data Modeling**
 * Star Schema dimensional modeling (Fact and Dimension table optimization)
-* Advanced financial statement profiling (10-Ks, 10-Qs) and automated liquidity risk analysis
 * Econometric analysis, statistical validation, and business rule enforcement
 
 **Data Visualization & Stewardship**
