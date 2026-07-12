@@ -16,7 +16,7 @@ Passionate about bridging the gap between rigorous financial logic and scalable 
 * Star Schema dimensional modeling (Fact and Dimension table optimization)
 * Econometric analysis, statistical validation, and business rule enforcement
 
-**Data Visualization & BI
+**Data Visualization & BI**
 * Dynamic corporate reporting layers and real-time dashboard tracking
 * Data lineage improvement, auditability frameworks, and system access normalization
 * Bridging technical execution with cross-functional operations and stakeholder needs
