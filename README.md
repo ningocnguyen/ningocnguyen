@@ -1,6 +1,7 @@
 # Hi, I'm Ni Nguyen! 👋
 
 **Quantitative Economics & Econometrics Student** at the University of South Florida
+
 Passionate about bridging the gap between messy, raw data and scalable data infrastructure.
 
 I started my journey analyzing financial statements and assessing risks, which made me realize that the numbers we rely on are only as good as the pipelines delivering them. 
