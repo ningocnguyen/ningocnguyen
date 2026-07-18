@@ -4,7 +4,7 @@
 
 Passionate about bridging the gap between messy, raw data and scalable data infrastructure.
 
-I started my journey analyzing financial statements and assessing risks, which made me realize that the numbers we rely on are only as good as the pipelines delivering them. 
+I started my journey analyzing financial statements and market risks, which made me realize that the numbers we rely on are only as good as the pipelines delivering them. 
 
 Today, I use my analytical background to engineer robust, business-ready data ecosystems that transform raw data into clear, actionable insights.
 
