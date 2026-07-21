@@ -2,11 +2,9 @@
 
 **Quantitative Economics & Econometrics Student** at the University of South Florida
 
-Passionate about bridging the gap between messy, raw data and scalable data infrastructure.
+I started out in finance, diving into market trends and financial statements. Working directly with complex datasets made one thing clear pretty quickly: **even the best analytics depend entirely on the reliability of the underlying pipeline.**
 
-I started my journey analyzing financial statements and market risks, which made me realize that the numbers we rely on are only as good as the pipelines delivering them. 
-
-Today, I use my analytical background to engineer robust, business-ready data ecosystems that transform raw data into clear, actionable insights.
+That realization pushed me to look under the hood. Today, I combine my quantitative background with data engineering to build clean, efficient, and scalable infrastructure. 
 
 ---
 
